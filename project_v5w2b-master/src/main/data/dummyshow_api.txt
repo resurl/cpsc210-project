@@ -1,0 +1,176 @@
+{
+    "backdrop_path": "/z04MAaCOspXkhrJ9hwgozsliPMf.jpg",
+    "created_by": [
+        {
+            "id": 1242945,
+            "credit_id": "5258391f760ee36aaa9765fe",
+            "name": "Pendleton Ward",
+            "gender": 2,
+            "profile_path": "/lg694xe6BOygq3Auxvv0yN2ywf.jpg"
+        }
+    ],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "2010-04-05",
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.cartoonnetwork.com/video/adventuretime/",
+    "id": 15260,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-09-03",
+    "last_episode_to_air": {
+        "air_date": "2018-09-03",
+        "episode_number": 13,
+        "id": 1563459,
+        "name": "Come Along With Me",
+        "overview": "In the distant future, many years after the outcome of the Gum War, two friends named Beth and Shermy recover a rusty old mechanical arm that once belonged to Finn after it is dropped by a Prize Ball Guardian.",
+        "production_code": "",
+        "season_number": 10,
+        "show_id": 15260,
+        "still_path": "/cB1PE4z51rIVSwg6hIbT7obZ483.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Adventure Time",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Cartoon Network",
+            "id": 56,
+            "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 293,
+    "number_of_seasons": 10,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Adventure Time",
+    "overview": "They’re not righteous, they’re wrongteous! Hook up with Finn and Jake as they travel the Land of Ooo searching for adventure. But remember, adventure isn’t always easy. Sometimes you’ve got to battle fire gnomes that torture old ladies, save a smelly hot dog princess from the Ice King, and thaw out a bunch of frozen businessmen. What the cabbage?!",
+    "popularity": 34.555,
+    "poster_path": "/h5nQA8i7Z1M8yzDfDiJ9epmd1AD.jpg",
+    "production_companies": [],
+    "seasons": [
+        {
+            "air_date": "2008-12-07",
+            "episode_count": 9,
+            "id": 26867,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3iU9cBw7MZmQxjsGnvffJclptGt.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-05",
+            "episode_count": 26,
+            "id": 26868,
+            "name": "Season 1",
+            "overview": "Soon after airing, the show began to receive critical acclaim as well as a large fan following. In 2010, the Adventure Time episode \"My Two Favorite People\" was even nominated for a Primetime Emmy Award for Outstanding Short-format Animated Program, although the series did not win.",
+            "poster_path": "/p5J0apmEruO7W9HSeZ0hM1FLNFY.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2010-10-11",
+            "episode_count": 26,
+            "id": 26869,
+            "name": "Season 2",
+            "overview": "In 2011, Adventure Time was nominated for an Annie Award, and the episode \"It Came from the Nightosphere\" was nominated for a Primetime Emmy Award for Outstanding Short-format Animated Program.",
+            "poster_path": "/aOPxLPlTxoRZnYV9CaVkujQjhGU.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2011-07-11",
+            "episode_count": 26,
+            "id": 26870,
+            "name": "Season 3",
+            "overview": "The season was met with largely positive critical reception. In addition, several episodes and writers were nominated for awards; the episode \"Thank You\" was nominated for an Annie Award as well as an award at the Sundance Film Festival. \"Too Young\" was nominated for an Emmy Award. Storyboard artist Rebecca Sugar was also nominated for an Annie Award.",
+            "poster_path": "/jiqKtubnjmmggiW9SASTaPPF7fM.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2012-04-02",
+            "episode_count": 26,
+            "id": 26871,
+            "name": "Season 4",
+            "overview": "The season was met with largely positive critical reception. In addition, several episodes were nominated for awards; The episodes \"Princess Cookie\", \"The Hard Easy\", \"Lady & Peebles\", and \"Goliad\" were all nominated for Annie Awards. The episode \"Card Wars\", however, won a Golden Reel Awards.",
+            "poster_path": "/80M3anFixvrSXhx6OzlZFZMQGDS.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2012-11-12",
+            "episode_count": 52,
+            "id": 26872,
+            "name": "Season 5",
+            "overview": "The season has been met with largely positive critical reception. In June 2013, the series was nominated for \"Best Animated Series\" at the 2013 Critics' Choice Television Awards. At the 65th Primetime Emmy Awards, \"Simon & Marcy\", was nominated for a Primetime Emmy Award for Short-format Animation, and former character designer Andy Ristaino won an Emmy for \"Outstanding Individual Achievement In Animation\" for his character designs in the episode \"Puhoy\".",
+            "poster_path": "/4FWhJb5iGIlsQ6arQoVDYspaBqe.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2014-04-21",
+            "episode_count": 43,
+            "id": 61205,
+            "name": "Season 6",
+            "overview": "The season follows the adventures of Finn the Human, a human boy, and his best friend Jake, a dog with magical powers to change shape, grow, and shrink at will. Finn and Jake live in the post-apocalyptic Land of Ooo. Along the way, they interact with the other main characters of the show: Princess Bubblegum, The Ice King, and Marceline the Vampire Queen. Common storylines revolve around Finn and Jake discovering strange creatures, dealing with the antagonistic but misunderstood Ice King, and battling monsters in order to help others.",
+            "poster_path": "/6pctePUEX6KORycD9wQm77Y5bs2.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2015-11-02",
+            "episode_count": 39,
+            "id": 71764,
+            "name": "Season 7",
+            "overview": "Main story arcs for this season include Bubblegum adjusting to life in exile and eventually reclaiming the Candy Kingdom crown, and Marceline coming to terms with her vampiric nature.",
+            "poster_path": "/ig9MjY78d9eYo2TcJebYzc0XtmJ.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2017-01-23",
+            "episode_count": 28,
+            "id": 84341,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": "/qWt3KQ00TiTMBPwjNmsWRL87OC6.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2017-04-21",
+            "episode_count": 14,
+            "id": 90580,
+            "name": "Season 9",
+            "overview": null,
+            "poster_path": "/e5mcg3z7urh6j3vQkoyTuNrNSl7.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "2017-09-17",
+            "episode_count": 13,
+            "id": 97766,
+            "name": "Season 10",
+            "overview": "The tenth and final season of Adventure Time.",
+            "poster_path": "/zNxDweupTQ8S7U7sfzNuDDeapYZ.jpg",
+            "season_number": 10
+        }
+    ],
+    "status": "Ended",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 234
+}
